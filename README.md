@@ -1,14 +1,10 @@
 # aiffel_project
-project
 
-# gksrud293@naver.com
+> **AIFFEL 부트캠프** 학습 기록과 프로젝트 결과를 저장하는 레포지토리입니다.
 
-git config --global user.email "email"
-git config --global user.name "name"
+![](./image/AIFFEL_10.png)
 
-git branch Branch_Name
-git checkout Branch_Name
-
-git add README.md
-git commit -m "commit message"
-git push origin Branch_Name
+| <img src="./image/account_circle.png" width=80> | **권재현**  
+| <img src="./image/account_circle.png" width=80> | **김청해**  
+| <img src="./image/account_circle.png" width=80> | **이주연**  
+| <img src="./image/account_circle.png" width=80> | **임한결**  
