@@ -1,2 +1,0 @@
-# aiffel_project
-project
