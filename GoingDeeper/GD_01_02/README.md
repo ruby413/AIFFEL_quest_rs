@@ -9,7 +9,7 @@
     z
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
-    - plainnet과 resnet 설정 잘함
+    - plainnet과 resnet  설정 잘함
     - ![image](https://github.com/user-attachments/assets/2f5ae829-223d-44e3-bf1f-851075bd9e34)
 
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
